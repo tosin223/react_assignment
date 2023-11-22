@@ -1,0 +1,33 @@
+footer {
+    background-color: #F3F3F3;
+    padding: 30px 9%;
+}
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.footer-container .left-footer-text h4{
+    color: #2E2E2E;
+    font-size: 2rem;
+}
+.footer-container .fa-solid {
+    color: #292D32;
+    margin-right: 8px;
+}
+.right-footer-section .righht-footer-address address {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #7E7E7E;
+}
+.right-footer-section .righht-footer-email a {
+    color: #7E7E7E;
+}
+.footer-section .footer-navbar {
+    margin-top: 10px;
+}
+.footer-section .footer-navbar a {
+    margin-right: 15px;
+    color: #343434;
+}
